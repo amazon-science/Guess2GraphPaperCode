@@ -1,6 +1,6 @@
 This repository provides code for the **Guess2Graph** framework, causal discovery methods, and experimental setup developed in the paper:
 
-> [From Guess2Graph: When and How Can Unreliable Experts Safely Boost Causal Discovery in Finite Samples?](https://arxiv.org/pdf/2510.14488)  
+> [From Guess2Graph: When and How Can Unreliable Experts Safely Boost Causal Discovery in Finite Samples?](https://arxiv.org/abs/2510.14488)  
 > **Authors:** Sujai Hiremath, Dominik Janzing, Philipp Faller, Patrick Blöbaum, Elke Kirschbaum, Shiva Prasad Kasiviswanathan, Kyra Gan  
 > **Year:** 2025
 
