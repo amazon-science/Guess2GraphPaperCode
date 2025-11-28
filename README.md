@@ -28,9 +28,6 @@ Some commentary on the major components of the repo:
 - The plotting-code folder contains the code needed to visualize the data collected from running files in the experiment folder.
 - The guess-code folder contains the code needed to call LLMs to give DAG guesses using Amazon bedrock.
 - The test folder contains tests for verifying accuracy of all major functions.
-- The guess-llm-results, llm-guess-plots, plots, results folders contain a history of results collected during development of this project.
-
-
 
 
 ## Security
